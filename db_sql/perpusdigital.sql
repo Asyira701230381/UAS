@@ -119,7 +119,7 @@ CREATE TABLE `pengguna` (
 --
 
 INSERT INTO `pengguna` (`id`, `username`, `nama`, `email`, `password`, `telepon`, `alamat`, `fotoprofil`, `level`, `tanggal_lahir`, `jenis_kelamin`) VALUES
-(1, '123', 'Administrator', 'admin@gmail.com', '123', '0812345678', '<p>Jl. Palembang</p>\r\n', 'Untitled.png', 'Admin', NULL, 'Laki-laki'),
+(1, 'asyira', 'Administrator', 'iraasyira6@gmail.com', 'asyira', '0812345678', '<p>Jl. Jambi, danau kedap</p>\r\n', 'Untitled.png', 'Admin', NULL, 'Laki-laki'),
 (14, 'sugeng', 'Sugeng', 'sugeng@gmail.com', 'sugeng', '084921849124', '<p>Jl. Palembang</p>\r\n', 'produk14 (1).jfif', 'Peminjam', NULL, 'Laki-laki'),
 (15, '444', 'Yanto', 'yanto@gmail.com', '444', '08912859125', '<p>Jl. Palembang</p>\r\n', 'user.jpg', 'Peminjam', NULL, 'Laki-laki'),
 (17, '999', 'Vivin', 'vivin@gmail.com', '999', '08591289512', '<p>Jl. Palembang</p>\r\n', 'Untitled.png', 'Peminjam', NULL, 'Laki-laki'),
