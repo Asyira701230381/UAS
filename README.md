@@ -1,5 +1,5 @@
 Assalamualaikum ibuk
 
-nama : asyira
-nik : 701230381
+nama : asyira </br>
+nim : 701230381
 ini tugas Project website kami
